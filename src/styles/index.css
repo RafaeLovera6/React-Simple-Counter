@@ -10,3 +10,20 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.contador {
+    text-align: center;
+    background: rgb(7, 62, 182);
+
+}
+
+
+.contador div {
+    display: inline-block;
+    font-size: 80px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+    margin: 3px;
+    color: white;
+
+}
